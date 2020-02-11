@@ -1,3 +1,14 @@
+# mde-react
+
+react components for mde.
+
+### Developer: Tooling
+
+I followed [this](https://www.codementor.io/@peterodekwo/create-a-simple-react-npm-package-in-simple-steps-using-cra-w966okagi) steps to start my developing.
+
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
